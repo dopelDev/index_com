@@ -10,5 +10,5 @@ Usare Guvicorn como WSGI, ya que no necesito ninguna asynchronous feature, Guvic
 **Web Server Gateway Interface**.
 Usare **Nginx** como **Reverse Proxy**, pues se como usarlo basicamente.
 
-- **FrontEnd:** Usare el framework **Bulma**, porque no require dependecias en javascript. 
+- **FrontEnd:** Usare el framework **Bulma**, porque no requiere dependecias en javascript. 
 
