@@ -18,4 +18,4 @@ Usare **Nginx** como **Reverse Proxy**, pues se como usarlo basicamente.
 - **Flask 2.3.2**
 - **Werkzeug 2.3.6**
 - **Guvicorn 20.1.0**
-
+- **Bulma 0.9.4**
